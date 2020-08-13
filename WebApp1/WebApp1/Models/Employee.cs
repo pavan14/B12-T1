@@ -10,5 +10,6 @@ namespace WebApp1.Models
         public int EmployeeID { get; set; }
         public string Name { get; set; }
         public string City { get; set; }
+        public int Salary { get; set; }
     }
 }
